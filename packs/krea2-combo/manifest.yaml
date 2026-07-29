@@ -31,7 +31,7 @@ models:
 
   # --- Turbo LoRA (rank 64, bf16) — wired ACTIVE @0.2 on both combo passes ---
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/krea2_turbo_lora_rank_64_bf16.safetensors
-    local_path: loras/krea2_turbo_lora_rank_64_bf16.safetensors
+    local_path: loras/flux/krea2/krea2_turbo_lora_rank_64_bf16.safetensors
 
   # --- IdeoKrea LoRA (test) — OPTIONAL Ideogram-4-style add-in. Ships available
   #     but NOT wired (drop it into the Power Lora Loader's empty slot to enable). ---

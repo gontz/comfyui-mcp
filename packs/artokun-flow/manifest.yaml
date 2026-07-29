@@ -47,7 +47,7 @@ models:
 
   # --- Uni3C controlnet (gist gives the real Kijai name directly) ---
   - url: https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan21_Uni3C_controlnet_fp16.safetensors
-    local_path: controlnet/Wan21_Uni3C_controlnet_fp16.safetensors
+    local_path: controlnet/wan/Wan21_Uni3C_controlnet_fp16.safetensors
 
   # --- LoRA stack (gist names match the workflow's placeholder LoRA names) ---
   - url: https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/light.safetensors

@@ -52,6 +52,6 @@ models:
 
   # --- LoRAs (distilled speed LoRA + IC detailer) ---
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-22b-distilled-lora-384-1.1.safetensors?download=true
-    local_path: loras/ltx-2.3-22b-distilled-lora-384-1.1.safetensors
+    local_path: loras/ltx/ltx23/ltx-2.3-22b-distilled-lora-384-1.1.safetensors
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2-19b-ic-lora-detailer.safetensors?download=true
-    local_path: loras/ltx-2-19b-ic-lora-detailer.safetensors
+    local_path: loras/ltx/ltx23/ltx-2-19b-ic-lora-detailer.safetensors

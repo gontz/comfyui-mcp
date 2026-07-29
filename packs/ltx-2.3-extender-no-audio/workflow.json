@@ -812,7 +812,7 @@
         },
         {
           "on": true,
-          "lora": "ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
+          "lora": "ltx\\ltx23\\ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
           "strength": 0.6,
           "strengthTwo": null
         },

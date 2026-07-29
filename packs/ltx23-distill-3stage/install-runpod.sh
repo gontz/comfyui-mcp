@@ -51,7 +51,7 @@ grab "models/vae/LTX23_audio_vae_bf16.safetensors" "https://huggingface.co/Aitre
 grab "models/vae/taeltx2_3.safetensors" "https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/vae/taeltx2_3.safetensors"
 grab "models/latent_upscale_models/ltx-2.3-spatial-upscaler-x2-1.1.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-spatial-upscaler-x2-1.1.safetensors"
 grab "models/latent_upscale_models/ltx-2.3-spatial-upscaler-x1.5-1.0.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-spatial-upscaler-x1.5-1.0.safetensors"
-grab "models/loras/ltx-2.3-22b-distilled-lora-384.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-distilled-lora-384.safetensors"
-grab "models/loras/gemma-3-12b-it-abliterated_heretic_lora_rank64_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/loras/gemma-3-12b-it-abliterated_heretic_lora_rank64_bf16.safetensors"
+grab "models/loras/ltx/ltx23/ltx-2.3-22b-distilled-lora-384.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-distilled-lora-384.safetensors"
+grab "models/loras/ltx/gemma-3-12b-it-abliterated_heretic_lora_rank64_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/loras/gemma-3-12b-it-abliterated_heretic_lora_rank64_bf16.safetensors"
 
 echo "DONE. Restart ComfyUI, then load workflow.json."

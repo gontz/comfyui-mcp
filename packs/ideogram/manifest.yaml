@@ -13,9 +13,9 @@ custom_nodes:
 models:
   # --- Diffusion models (Comfy-Org official Ideogram-4 repo) ---
   - url: https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_fp8_scaled.safetensors?download=true
-    local_path: diffusion_models/ideogram4_fp8_scaled.safetensors
+    local_path: diffusion_models/rest/ideogram4_fp8_scaled.safetensors
   - url: https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_fp8_scaled.safetensors?download=true
-    local_path: diffusion_models/ideogram4_unconditional_fp8_scaled.safetensors
+    local_path: diffusion_models/rest/ideogram4_unconditional_fp8_scaled.safetensors
 
   # --- Text encoders ---
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/gemma4_e4b_it_fp8_scaled.safetensors?download=true

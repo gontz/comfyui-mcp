@@ -28,7 +28,7 @@ call :grab "models\diffusion_models\WanVideo_2_1_Multitalk_14B_fp8_e4m3fn.safete
 call :grab "models\text_encoders\umt5_xxl_fp8_e4m3fn_scaled.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors"
 call :grab "models\vae\Wan2_1_VAE_bf16.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors"
 call :grab "models\clip_vision\clip_vision_h.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors"
-call :grab "models\loras\Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors" "https://huggingface.co/lightx2v/Wan2.1-I2V-14B-480P-StepDistill-CfgDistill-Lightx2v/resolve/main/loras/Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors"
+call :grab "models\loras\wan21\accc\Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors" "https://huggingface.co/lightx2v/Wan2.1-I2V-14B-480P-StepDistill-CfgDistill-Lightx2v/resolve/main/loras/Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors"
 
 echo DONE. Restart ComfyUI, then load workflow.json.
 pause

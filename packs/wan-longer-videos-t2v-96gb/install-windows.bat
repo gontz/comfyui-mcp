@@ -33,7 +33,7 @@ call :grab "models\loras\wan2.2_t2v_lightx2v_4steps_lora_v1.1_high_noise.safeten
 call :grab "models\loras\wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors"
 call :grab "models\loras\wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors"
 call :grab "models\loras\wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors"
-call :grab "models\loras\Wan2.1_T2V_14B_FusionX_LoRA.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.1_T2V_14B_FusionX_LoRA.safetensors"
+call :grab "models\loras\wan21\accc\Wan21_T2V_14B_FusionX_LoRA.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.1_T2V_14B_FusionX_LoRA.safetensors"
 
 echo DONE. Restart ComfyUI, then load workflow.json.
 pause

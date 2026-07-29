@@ -387,7 +387,7 @@
         },
         {
           "on": true,
-          "lora": "krea2_turbo_lora_rank_64_bf16.safetensors",
+          "lora": "flux\\krea2\\krea2_turbo_lora_rank_64_bf16.safetensors",
           "strength": 0.2,
           "strengthTwo": null
         },
@@ -1262,7 +1262,7 @@
         },
         {
           "on": true,
-          "lora": "krea2_turbo_lora_rank_64_bf16.safetensors",
+          "lora": "flux\\krea2\\krea2_turbo_lora_rank_64_bf16.safetensors",
           "strength": 0.2,
           "strengthTwo": null
         },

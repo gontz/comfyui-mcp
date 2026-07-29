@@ -38,8 +38,8 @@ call :grab "models\unet\ltx-2.3-22b-dev-Q4_K_S.gguf" "https://huggingface.co/Ait
 call :grab "models\unet\ltx-2.3-22b-dev-Q5_K_S.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-22b-dev-Q5_K_S.gguf?download=true"
 call :grab "models\unet\ltx-2.3-22b-dev-Q8_0.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-22b-dev-Q8_0.gguf?download=true"
 call :grab "models\latent_upscale_models\ltx-2.3-spatial-upscaler-x2-1.1.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-spatial-upscaler-x2-1.1.safetensors?download=true"
-call :grab "models\loras\ltx-2.3-22b-distilled-lora-384-1.1.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-22b-distilled-lora-384-1.1.safetensors?download=true"
-call :grab "models\loras\ltx-2-19b-ic-lora-detailer.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2-19b-ic-lora-detailer.safetensors?download=true"
+call :grab "models\loras\ltx\ltx23\ltx-2.3-22b-distilled-lora-384-1.1.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2.3-22b-distilled-lora-384-1.1.safetensors?download=true"
+call :grab "models\loras\ltx\ltx23\ltx-2-19b-ic-lora-detailer.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/ltx-2-19b-ic-lora-detailer.safetensors?download=true"
 
 echo DONE. Restart ComfyUI, then load workflow.json.
 pause

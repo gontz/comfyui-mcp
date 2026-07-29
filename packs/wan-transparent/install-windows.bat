@@ -26,8 +26,8 @@ call :clone "ComfyUI_tinyterraNodes" "https://github.com/TinyTerra/ComfyUI_tinyt
 echo -------- models --------
 call :grab "models\vae\wan_2.1_vae.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/wan_2.1_vae.safetensors"
 call :grab "models\text_encoders\umt5-xxl-encoder-Q5_K_S.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/umt5-xxl-encoder-Q5_K_S.gguf"
-call :grab "models\unet\Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
-call :grab "models\unet\Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+call :grab "models\unet\unet\gguf\Wan22-I2V-A14B-HighNoise-Q8_0.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+call :grab "models\unet\unet\gguf\Wan22-I2V-A14B-LowNoise-Q8_0.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
 call :grab "models\loras\Wan2.2-Lightning_I2V-A14B-4steps-lora_HIGH_fp16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-Lightning_I2V-A14B-4steps-lora_HIGH_fp16.safetensors"
 call :grab "models\loras\Wan2.2-Lightning_I2V-A14B-4steps-lora_LOW_fp16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-Lightning_I2V-A14B-4steps-lora_LOW_fp16.safetensors"
 call :grab "models\RMBG\BiRefNet\BiRefNet_toonout.safetensors" "https://huggingface.co/1038lab/BiRefNet/resolve/main/BiRefNet_toonout.safetensors"

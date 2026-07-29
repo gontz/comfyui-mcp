@@ -802,7 +802,7 @@
               }
             },
             "widgets_values": [
-              "ltx-2.3-22b-dev.safetensors"
+              "unet\\LTX2\\ltx-2.3-22b-dev.safetensors"
             ]
           },
           {
@@ -1189,7 +1189,7 @@
               }
             },
             "widgets_values": [
-              "ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors",
+              "ltx\\ltx23\\ltx-2.3-22b-distilled-1.1_lora-dynamic_fro09_avg_rank_111_bf16.safetensors",
               0.5
             ]
           },
@@ -3178,7 +3178,7 @@
               }
             },
             "widgets_values": [
-              "ltx-2.3-22b-dev.safetensors"
+              "unet\\LTX2\\ltx-2.3-22b-dev.safetensors"
             ]
           },
           {
@@ -3259,7 +3259,7 @@
             },
             "widgets_values": [
               "gemma_3_12B_it_fp8_scaled.safetensors",
-              "ltx-2.3-22b-dev.safetensors",
+              "unet\\LTX2\\ltx-2.3-22b-dev.safetensors",
               "default"
             ]
           },

@@ -511,7 +511,7 @@
         ]
       },
       "widgets_values": [
-        "ideogram4_fp8_scaled.safetensors",
+        "rest\\ideogram4_fp8_scaled.safetensors",
         "default"
       ],
       "color": "#223",
@@ -569,7 +569,7 @@
         ]
       },
       "widgets_values": [
-        "ideogram4_unconditional_fp8_scaled.safetensors",
+        "rest\\ideogram4_unconditional_fp8_scaled.safetensors",
         "default"
       ],
       "color": "#223",

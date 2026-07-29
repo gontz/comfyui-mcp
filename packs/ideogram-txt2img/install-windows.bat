@@ -20,8 +20,8 @@ call :clone "ComfyUI-KJNodes" "https://github.com/kijai/ComfyUI-KJNodes"
 call :clone "ComfyUI_essentials" "https://github.com/cubiq/ComfyUI_essentials"
 
 echo -------- models --------
-call :grab "models\diffusion_models\ideogram4_fp8_scaled.safetensors" "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_fp8_scaled.safetensors?download=true"
-call :grab "models\diffusion_models\ideogram4_unconditional_fp8_scaled.safetensors" "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_fp8_scaled.safetensors?download=true"
+call :grab "models\diffusion_models\rest\ideogram4_fp8_scaled.safetensors" "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_fp8_scaled.safetensors?download=true"
+call :grab "models\diffusion_models\rest\ideogram4_unconditional_fp8_scaled.safetensors" "https://huggingface.co/Comfy-Org/Ideogram-4/resolve/main/diffusion_models/ideogram4_unconditional_fp8_scaled.safetensors?download=true"
 call :grab "models\text_encoders\gemma4_e4b_it_fp8_scaled.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/gemma4_e4b_it_fp8_scaled.safetensors?download=true"
 call :grab "models\text_encoders\qwen3vl_8b_fp8_scaled.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/qwen3vl_8b_fp8_scaled.safetensors?download=true"
 call :grab "models\vae\flux2-vae.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/flux2-vae.safetensors?download=true"

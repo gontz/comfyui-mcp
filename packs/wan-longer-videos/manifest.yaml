@@ -38,13 +38,13 @@ models:
   # --- UNets / diffusion models (GGUF, Q8_0 tier — see header for other tiers) ---
   # ComfyUI-GGUF's UnetLoaderGGUF reads from models/unet/.
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf
-    local_path: unet/Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf
+    local_path: unet/unet/gguf/Wan22-I2V-A14B-HighNoise-Q8_0.gguf
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf
-    local_path: unet/Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf
+    local_path: unet/unet/gguf/Wan22-I2V-A14B-LowNoise-Q8_0.gguf
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf
-    local_path: unet/Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf
+    local_path: unet/unet/gguf/Wan22-T2V-A14B-HighNoise-Q8_0.gguf
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-T2V-A14B-LowNoise-Q8_0.gguf
-    local_path: unet/Wan2.2-T2V-A14B-LowNoise-Q8_0.gguf
+    local_path: unet/unet/gguf/Wan22-T2V-A14B-LowNoise-Q8_0.gguf
 
   # --- LoRAs (Lightning 4-step + FusionX) ---
   # I2V uses the plain Lightning 4-step LoRAs; T2V uses the v1.1 variant — both as referenced by the workflow.
@@ -57,7 +57,7 @@ models:
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors
     local_path: loras/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.1_T2V_14B_FusionX_LoRA.safetensors
-    local_path: loras/Wan2.1_T2V_14B_FusionX_LoRA.safetensors
+    local_path: loras/wan21/accc/Wan21_T2V_14B_FusionX_LoRA.safetensors
 
   # --- Upscaler ---
   - url: https://huggingface.co/Aitrepreneur/FLX/resolve/main/4x-ClearRealityV1.pth

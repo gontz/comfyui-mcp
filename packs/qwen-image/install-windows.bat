@@ -34,7 +34,7 @@ call :grab "models\unet\Qwen_Image_Distill-Q4_K_S.gguf" "https://huggingface.co/
 call :grab "models\unet\Wan2.2-T2V-A14B-LowNoise-Q4_K_S.gguf" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-T2V-A14B-LowNoise-Q4_K_S.gguf"
 call :grab "models\loras\Qwen-Image-Lightning-8steps-V1.0.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Qwen-Image-Lightning-8steps-V1.0.safetensors"
 call :grab "models\loras\Qwen-Image-Lightning-4steps-V1.0.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Qwen-Image-Lightning-4steps-V1.0.safetensors"
-call :grab "models\loras\Wan2.1_T2V_14B_FusionX_LoRA.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.1_T2V_14B_FusionX_LoRA.safetensors"
+call :grab "models\loras\wan21\accc\Wan21_T2V_14B_FusionX_LoRA.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.1_T2V_14B_FusionX_LoRA.safetensors"
 call :grab "models\loras\Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors"
 call :grab "models\upscale_models\4x-ClearRealityV1.pth" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/4x-ClearRealityV1.pth"
 call :grab "models\upscale_models\RealESRGAN_x4plus_anime_6B.pth" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/RealESRGAN_x4plus_anime_6B.pth"

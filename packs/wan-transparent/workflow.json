@@ -1166,7 +1166,7 @@
         }
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -1207,7 +1207,7 @@
         }
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"

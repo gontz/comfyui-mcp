@@ -37,7 +37,7 @@ grab "models/diffusion_models/Wan2_2-Animate-14B_fp8_scaled_e4m3fn_KJ_v2.safeten
 grab "models/vae/Wan2_1_VAE_bf16.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/vae.safetensors"
 grab "models/clip_vision/clip_vision_h.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/klip_vision.safetensors"
 grab "models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/text_enc.safetensors"
-grab "models/controlnet/Wan21_Uni3C_controlnet_fp16.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan21_Uni3C_controlnet_fp16.safetensors"
+grab "models/controlnet/wan/Wan21_Uni3C_controlnet_fp16.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan21_Uni3C_controlnet_fp16.safetensors"
 grab "models/loras/light.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/light.safetensors"
 grab "models/loras/wan.reworked.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/wan.reworked.safetensors"
 grab "models/loras/WanPusa.safetensors" "https://huggingface.co/wdsfdsdf/OFMHUB/resolve/main/WanPusa.safetensors"

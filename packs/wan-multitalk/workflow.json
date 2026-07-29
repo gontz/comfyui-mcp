@@ -380,7 +380,7 @@
         "ver": "058286fc0f3b0651a2f6b68309df3f06e8332cc0"
       },
       "widgets_values": [
-        "Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors",
+        "wan21\\accc\\Wan21_I2V_14B_lightx2v_cfg_step_distill_lora_rank64.safetensors",
         0.8000000000000002,
         false,
         false

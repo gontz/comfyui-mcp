@@ -39,7 +39,7 @@ grab "models/text_encoders/umt5-xxl-enc-bf16.safetensors" "https://huggingface.c
 grab "models/vae/Wan2_1_VAE_bf16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/Wan2_1_VAE_bf16.safetensors?download=true"
 grab "models/clip_vision/clip_vision_h.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/clip_vision_h.safetensors?download=true"
 grab "models/loras/WanAnimate_relight_lora_fp16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/WanAnimate_relight_lora_fp16.safetensors?download=true"
-grab "models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors?download=true"
+grab "models/loras/wan21/accc/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors?download=true"
 grab "models/sams/SeC-4B-fp16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/SeC-4B-fp16.safetensors?download=true"
 grab "models/detection/vitpose-l-wholebody.onnx" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/vitpose-l-wholebody.onnx?download=true"
 grab "models/detection/yolov10m.onnx" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/yolov10m.onnx?download=true"

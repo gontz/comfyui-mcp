@@ -28,7 +28,7 @@ call :grab "models\diffusion_models\WanModel.safetensors" "https://huggingface.c
 call :grab "models\vae\vae.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors"
 call :grab "models\clip_vision\klip_vision.safetensors" "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors"
 call :grab "models\text_encoders\text_enc.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-fp8_e4m3fn.safetensors"
-call :grab "models\controlnet\Wan21_Uni3C_controlnet_fp16.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan21_Uni3C_controlnet_fp16.safetensors"
+call :grab "models\controlnet\wan\Wan21_Uni3C_controlnet_fp16.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan21_Uni3C_controlnet_fp16.safetensors"
 call :grab "models\loras\light.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors"
 call :grab "models\loras\wan.reworked.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/LoRAs/Wan22_relight/WanAnimate_relight_lora_fp16.safetensors"
 call :grab "models\loras\WanPusa.safetensors" "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Pusa/Wan21_PusaV1_LoRA_14B_rank512_bf16.safetensors"

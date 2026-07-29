@@ -30,10 +30,10 @@ echo "-------- pip (manifest extras) --------"
 "$PY" -m pip install "imageio-ffmpeg"
 
 echo "-------- models --------"
-grab "models/checkpoints/ltx-2.3-22b-dev.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-dev.safetensors"
+grab "models/checkpoints/unet/LTX2/ltx-2.3-22b-dev.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-dev.safetensors"
 grab "models/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors" "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/text_encoders/gemma_3_12B_it_fp8_scaled.safetensors"
-grab "models/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2.3/resolve/main/split_files/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors"
-grab "models/loras/gemma-3-12b-it-abliterated_lora_rank64_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/loras/gemma-3-12b-it-abliterated_lora_rank64_bf16.safetensors"
+grab "models/loras/ltx/ltx23/ltx-2.3-22b-distilled-1.1_lora-dynamic_fro09_avg_rank_111_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2.3/resolve/main/split_files/loras/ltx_2.3_22b_distilled_1.1_lora_dynamic_fro09_avg_rank_111_bf16.safetensors"
+grab "models/loras/ltx/gemma-3-12b-it-abliterated_lora_rank64_bf16.safetensors" "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/loras/gemma-3-12b-it-abliterated_lora_rank64_bf16.safetensors"
 grab "models/latent_upscale_models/ltx-2.3-spatial-upscaler-x2-1.1.safetensors" "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-spatial-upscaler-x2-1.1.safetensors"
 
 echo "DONE. Restart ComfyUI, then load workflow.json."

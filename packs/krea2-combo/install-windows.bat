@@ -25,7 +25,7 @@ echo -------- models --------
 call :grab "models\diffusion_models\krea2_turbo_fp8.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/krea2_turbo_fp8.safetensors"
 call :grab "models\text_encoders\qwen3vl_4b_fp8_scaled.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/qwen3vl_4b_fp8_scaled.safetensors"
 call :grab "models\vae\qwen_image_vae.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/qwen_image_vae.safetensors"
-call :grab "models\loras\krea2_turbo_lora_rank_64_bf16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/krea2_turbo_lora_rank_64_bf16.safetensors"
+call :grab "models\loras\flux\krea2\krea2_turbo_lora_rank_64_bf16.safetensors" "https://huggingface.co/Aitrepreneur/FLX/resolve/main/krea2_turbo_lora_rank_64_bf16.safetensors"
 call :grab "models\loras\IdeoKrea-test.safetensors" "https://huggingface.co/Aitrepreneur/IdeoKrea/resolve/main/IdeoKrea-test.safetensors"
 
 echo DONE. Restart ComfyUI, then load workflow.json.

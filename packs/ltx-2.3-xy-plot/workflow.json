@@ -5781,7 +5781,7 @@
         }
       },
       "widgets_values": [
-        "ltx-2-19b-ic-lora-detailer.safetensors",
+        "ltx\\ltx23\\ltx-2-19b-ic-lora-detailer.safetensors",
         0.2,
         1
       ],
@@ -6605,7 +6605,7 @@
         }
       },
       "widgets_values": [
-        "ltx-2-19b-ic-lora-detailer.safetensors",
+        "ltx\\ltx23\\ltx-2-19b-ic-lora-detailer.safetensors",
         0.2,
         1
       ],
@@ -6667,7 +6667,7 @@
         }
       },
       "widgets_values": [
-        "ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
+        "ltx\\ltx23\\ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
         0.5,
         1
       ],
@@ -6729,7 +6729,7 @@
         }
       },
       "widgets_values": [
-        "ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
+        "ltx\\ltx23\\ltx-2.3-22b-distilled-lora-384-1.1.safetensors",
         0.5,
         1
       ],

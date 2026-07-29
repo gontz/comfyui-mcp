@@ -1505,7 +1505,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-T2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-T2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -1580,7 +1580,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -1794,7 +1794,7 @@
         },
         {
           "on": false,
-          "lora": "Wan2.1_T2V_14B_FusionX_LoRA.safetensors",
+          "lora": "wan21\\accc\\Wan21_T2V_14B_FusionX_LoRA.safetensors",
           "strength": 1,
           "strengthTwo": null
         },
@@ -2200,7 +2200,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -2824,7 +2824,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -3646,7 +3646,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -3763,7 +3763,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -4234,7 +4234,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -4630,7 +4630,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -5488,7 +5488,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -5884,7 +5884,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -6831,7 +6831,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -6868,7 +6868,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-T2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-T2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -7219,7 +7219,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -7907,7 +7907,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -8303,7 +8303,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -8991,7 +8991,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -9392,7 +9392,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -10080,7 +10080,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -10481,7 +10481,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -11217,7 +11217,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -11637,7 +11637,7 @@
         },
         {
           "on": false,
-          "lora": "Wan2.1_T2V_14B_FusionX_LoRA.safetensors",
+          "lora": "wan21\\accc\\Wan21_T2V_14B_FusionX_LoRA.safetensors",
           "strength": 1,
           "strengthTwo": null
         },
@@ -12400,7 +12400,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -12944,7 +12944,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -13526,7 +13526,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -14303,7 +14303,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -14420,7 +14420,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -14891,7 +14891,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -15287,7 +15287,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -16145,7 +16145,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-LowNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-LowNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -16541,7 +16541,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
@@ -17104,7 +17104,7 @@
         "widget_ue_connectable": {}
       },
       "widgets_values": [
-        "Wan2.2-I2V-A14B-HighNoise-Q8_0.gguf"
+        "unet\\gguf\\Wan22-I2V-A14B-HighNoise-Q8_0.gguf"
       ],
       "color": "#223",
       "bgcolor": "#335"
